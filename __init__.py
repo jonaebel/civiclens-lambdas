@@ -1,1 +1,0 @@
-# CivicLens Backend Lambda Pipeline
