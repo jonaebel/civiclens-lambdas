@@ -72,7 +72,7 @@ If anything fails, the system transitions to `ERROR` and the error message and c
 
 ### Architecture Overview
 
-![Architektur Diagramm](assets/light.png)
+![Architektur Diagramm](../assets/light.png)
 
 ### Structured Analysis
 
