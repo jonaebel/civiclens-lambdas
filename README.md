@@ -11,18 +11,8 @@ CivicLens processes government documents through a **4-stage AWS powered pipelin
 4. **document-qa** — Allows users to ask follow-up questions about the document, answered with citations from the source text
 
 ## Architecture
-```
-User Browser
-    |
-    |-- POST /create-document --> Lambda (JWT check, rate limit)
-    |                                 |-- S3 presigned POST URL
-    |-- PUT (file) ------------> S3 raw bucket
-    |                                 |-- triggers extract-text Lambda
-    |                                 |-- triggers structured-analysis Lambda (Bedrock)
-    |-- GET meta.json (poll) --> S3 processed bucket (via Cognito creds)
-    |-- GET structured.json ---> S3 processed bucket (via Cognito creds)
-    |-- POST /document-qa -----> Lambda (JWT check, Bedrock Claude)
-```
+
+![Architektur Diagramm](assets/light.png)
 
 For know i have online made my AWS Backend functions pupblic, im not really a frontend guy and currently not sure about all matters of security. Maybe there is going to be a minimal frontend application to cone for my github. 
 
