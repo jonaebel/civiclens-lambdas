@@ -122,17 +122,26 @@ Answers are optionally stored under a timestamped path, creating a traceable rec
 
 ## Design Decisions That Matter
 
-Several architectural choices shaped the system — and each was as much a *trust decision* as a technical one.
+Several architectural choices shaped CivicLens — each one driven by a simple question: 
+what does a civic tool need to earn and keep the trust of its users?
 
-| Decision | Rationale |
-|---|---|
-| **Event-driven serverless design** | S3 and Lambda coordinate each stage, keeping infrastructure lightweight and scalable |
-| **Raw vs. processed separation** | Original files are never overwritten; derived artifacts live in a distinct namespace |
-| **S3-based state tracking** | `meta.json` replaces a database — simple, deterministic, transparent |
-| **Schema-enforced extraction** | Structured output is significantly more reliable than freeform summarization |
-| **Evidence-required responses** | Every key statement must tie back to a source quote |
+The event-driven serverless design using S3 and Lambda was a deliberate choice to keep 
+the infrastructure lightweight, scalable, and auditable — every step of the pipeline is a 
+discrete, inspectable function rather than a monolithic black box.
 
----
+Original files are never overwritten. The raw document lives in a separate bucket, 
+untouched, while all derived artifacts — extracted text, structured JSON — live in a 
+distinct namespace. This separation ensures that the source of truth is always preserved 
+and accessible.
+
+Instead of a traditional database, a lightweight `meta.json` file tracks the document's 
+processing state. This keeps the system simple.
+
+Schema-enforced extraction means the model is never asked to summarize freely. Instead, it receives a strict output contract that it must follow. Compared to open-ended generation, this approach dramatically improves consistency and helps users understand the document more quickly.
+
+Finally, every key statement in the output must be tied to a direct quote from the source 
+document. Not because the model cannot generate plausible text — it can — but because 
+plausible is not the same as verifiable or as correct, and in civic contexts, verifiability and correctnes is everything.
 
 ## What I Learned
 
@@ -143,8 +152,6 @@ Building CivicLens reshaped how I think about AI systems in civic contexts.
 **Citations change everything.** A summary without grounding feels speculative. A summary with traceable quotes feels credible.
 
 **Serverless architecture is ideal for early-stage civic technology.** Using S3, Lambda, API Gateway, Amplify, and Bedrock made it possible to build a complete pipeline within Free Tier limits — while remaining fully scalable.
-
-**Neutrality must be embedded into architecture.** It is not a feature you toggle on. It is enforced through structure, grounding, and the strict separation of interpretation from extraction.
 
 ---
 
