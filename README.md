@@ -1,6 +1,11 @@
 # Civiclens
 CivicLens is a personal project originating from the AWS 10,000 IDEAS competition, in which I am currently competing (current phase: Semifinal). CivicLens is a civic AI designed to provide users with a detailed and easy-to-understand analysis of government documents. This repository contains only the backend Lambda logic. The entire project is built on AWS Free Tier.
 
+For more information about the project, you can either read my [blog post](https://builder.aws.com/content/3A5MXZMR2T0OCRqzUh79cvj43D1/aideas-civiclens-my-entry-to-civic-ai) 
+on AWS Builder Center, watch a short [commentary-free demo video](https://youtu.be/KSlOQcF_Tkk) showing 
+what CivicLens looks like in action, or explore the [live landing page](https://civiclens-frontend-seven.vercel.app).
+
+
 ## Overview
 
 CivicLens processes government documents through a **4-stage AWS powered pipeline**:

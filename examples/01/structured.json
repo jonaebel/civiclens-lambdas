@@ -1,0 +1,63 @@
+{
+  "documentType": "Beschlussempfehlung und Bericht (Committee Recommendation and Report)",
+  "summary": "The German Bundestag rejected a proposal to improve children's healthcare. The Green Party wanted better medical care for all children in Germany. They asked for more money, better structures, and new laws. But most parties voted against it. The CDU/CSU, AfD, and SPD said no. Only the Green Party voted yes. The Left Party did not vote yes or no.",
+  "citizenSummary": "Parliament rejected a plan to improve healthcare for children and young people in Germany.",
+  "keyDecisions": [
+    {
+      "decision": "The Health Committee recommends rejecting the proposal to strengthen children's health",
+      "evidence": "Im Ergebnis empfiehlt der Ausschuss f\u00fcr Gesundheit mit den Stimmen der Fraktionen der CDU/CSU, AfD und SPD gegen die Stimmen der Fraktion B\u00dcNDNIS 90/DIE GR\u00dcNEN bei Stimmenthaltung der Fraktion Die Linke, den Antrag auf Drucksache 21/2721 abzulehnen.",
+      "citation": "Im Ergebnis empfiehlt der Ausschuss f\u00fcr"
+    },
+    {
+      "decision": "The Bundestag is recommended to reject the proposal",
+      "evidence": "Der Bundestag wolle beschlie\u00dfen, den Antrag auf Drucksache 21/2721 abzulehnen.",
+      "citation": "Der Bundestag wolle beschlie\u00dfen, den Antrag"
+    },
+    {
+      "decision": "The proposal was rejected with votes from CDU/CSU, AfD and SPD against the Green Party, with the Left Party abstaining",
+      "evidence": "Ablehnung des Antrags mit den Stimmen der Fraktionen der CDU/CSU, AfD und SPD gegen die Stimmen der Fraktion B\u00dcNDNIS 90/DIE GR\u00dcNEN bei Stimmenthaltung der Fraktion Die Linke.",
+      "citation": "Ablehnung des Antrags mit den Stimmen"
+    }
+  ],
+  "affectedGroups": [
+    {
+      "group": "Children and adolescents in Germany",
+      "impact": "The proposal aimed to ensure all children receive the best possible medical care regardless of origin, place of residence or social status, but was rejected",
+      "evidence": "Die antragstellende Fraktion fordert, die Schaffung der notwendigen strukturellen, finanziellen und gesetzlichen Rahmenbedingungen, damit alle Kinder und Jugendlichen in Deutschland unabh\u00e4ngig von Herkunft, Wohnort oder sozialem Status die bestm\u00f6gliche medizinische Versorgung erhalten.",
+      "citation": "Die antragstellende Fraktion fordert, die Schaffung"
+    },
+    {
+      "group": "Pediatric healthcare professionals",
+      "impact": "The proposal addressed workforce shortages in pediatric nursing and sought improvements in pediatric training and working conditions",
+      "evidence": "Neben der drohenden Ausd\u00fcnnung der station\u00e4ren Versorgung von Kindern und Lieferengp\u00e4ssen bei Kindermedikamenten m\u00fcssten auch die Bedarfsplanung f\u00fcr auf Kinder spezialisierte Psychotherapeutinnen und -therapeuten, die nachhaltige Aufstellung der Fr\u00fchen Hilfen, die Versorgung von Kindern und Jugendlichen in Sozialp\u00e4diatrischen Zentren sowie in Integrierten Notfallzentren und die Fachkr\u00e4ftesituation in der Kinderkrankenpflege in den Blick genommen werden.",
+      "citation": "Neben der drohenden Ausd\u00fcnnung der station\u00e4ren"
+    },
+    {
+      "group": "Pediatric hospitals and clinics",
+      "impact": "The proposal addressed structural deficits, staff shortages, and economic disincentives threatening the quality and reliability of children's care",
+      "evidence": "Strukturelle Defizite, Personalmangel, wirtschaftliche Fehlanreize und zunehmende Lieferengp\u00e4sse bei wichtigen Medikamenten gef\u00e4hrdeten jedoch die Qualit\u00e4t und Verl\u00e4sslichkeit der Versorgung der Kinder.",
+      "citation": "Strukturelle Defizite, Personalmangel, wirtschaftliche Fehlanreize und"
+    }
+  ],
+  "deadlines": [
+    {
+      "date": "2025-11-12",
+      "description": "The German Bundestag debated the proposal in first reading in its 39th session",
+      "evidence": "Der Deutsche Bundestag hat in seiner 39. Sitzung am 12. November 2025 den Antrag auf Drucksache 21/2721 in erster Lesung beraten und zur federf\u00fchrenden Beratung an den Ausschuss f\u00fcr Gesundheit \u00fcberwiesen.",
+      "citation": "Der Deutsche Bundestag hat in seiner"
+    },
+    {
+      "date": "2026-01-28",
+      "description": "Public hearing on the proposal was held in the 28th session of the Health Committee",
+      "evidence": "Die \u00f6ffentliche Anh\u00f6rung fand in der 28. Sitzung am 28. Januar 2026 statt. Als sachverst\u00e4ndige Organisationen waren eingeladen: Berufsverband der Kinder- und Jugend\u00e4rzt*innen e.V. (BVKJ), Deutsche Gesellschaft f\u00fcr Kinder- und Jugendmedizin (DGKJ), Gemeinsamer Bundesausschuss (G-BA), Verband Leitender Kinder- und Jugend\u00e4rzte und Kinderchirurgen Deutschlands (VLKKD).",
+      "citation": "Die \u00f6ffentliche Anh\u00f6rung fand in der"
+    },
+    {
+      "date": "2026-02-25",
+      "description": "The Health Committee concluded deliberations and voted on the recommendation",
+      "evidence": "Der Ausschuss f\u00fcr Gesundheit hat in seiner 29. Sitzung am 25. Februar 2026 die Beratungen zu dem Antrag auf Drucksache 21/2721 fortgesetzt und abgeschlossen.",
+      "citation": "Der Ausschuss f\u00fcr Gesundheit hat in"
+    }
+  ],
+  "obligations": []
+}

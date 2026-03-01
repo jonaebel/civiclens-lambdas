@@ -1,0 +1,27 @@
+{
+  "docId": "1f4c91d9-07b8-4644-90f1-745e7e84aa38",
+  "timestamp": "2026-03-01T19:09:44.361756+00:00",
+  "question": "what did they wanted to change about the health system for kids?",
+  "answer": "The Green Party wanted to make many changes to improve healthcare for children in Germany. They wanted to create better structures, provide more money, and make new laws so that all children could get the best medical care, no matter where they lived or what their background was. The document says they put together a big list of actions to make this happen. They wanted to focus on several specific areas: helping children in hospitals, making sure children's medicines were available, improving mental health support for young people, training more nurses who work with children, and making sure children could see specialized doctors and therapists. They also wanted to protect programs that help children's mental health, which were facing budget cuts. The main goal was to make sure children got special medical care designed for their needs, because children are not just small adults - they need different care.",
+  "citations": [
+    {
+      "text": "Die antragstellende Fraktion fordert, die Schaffung der notwendigen strukturellen, finanziellen und gesetzlichen Rahmenbedingungen, damit alle Kinder und Jugendlichen in Deutschland unabh\u00e4ngig von Herkunft, Wohnort oder sozialem Status die bestm\u00f6gliche medizinische Versorgung erhalten. Zur Umsetzung dieser Forderung wurde eine umfangreicher Ma\u00dfnahmenkatalog zusammengestellt.",
+      "reference": "Die antragstellende Fraktion fordert, die Schaffung"
+    },
+    {
+      "text": "Kinder seien keine kleinen Erwachsenen, sondern ben\u00f6tigten eine auf ihre besonderen k\u00f6rperlichen, seelischen und sozialen Bed\u00fcrfnisse zugeschnittene medizinische Versorgung.",
+      "reference": "Kinder seien keine kleinen Erwachsenen"
+    },
+    {
+      "text": "Neben der drohenden Ausd\u00fcnnung der station\u00e4ren Versorgung von Kindern und Lieferengp\u00e4ssen bei Kindermedikamenten m\u00fcssten auch die Bedarfsplanung f\u00fcr auf Kinder spezialisierte Psychotherapeutinnen und -therapeuten, die nachhaltige Aufstellung der Fr\u00fchen Hilfen, die Versorgung von Kindern und Jugendlichen in Sozialp\u00e4diatrischen Zentren sowie in Integrierten Notfallzentren und die Fachkr\u00e4ftesituation in der Kinderkrankenpflege in den Blick genommen werden.",
+      "reference": "Neben der drohenden Ausd\u00fcnnung der station\u00e4ren"
+    }
+  ],
+  "confidence": "high",
+  "language": "en",
+  "summaryLevel": "simple",
+  "metadata": {
+    "modelId": "eu.anthropic.claude-sonnet-4-5-20250929-v1:0",
+    "processingTime": 9.242573
+  }
+}

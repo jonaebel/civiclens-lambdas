@@ -1,0 +1,151 @@
+{
+  "documentType": "Congressional Appropriations Act",
+  "summary": "This is a U.S. government spending bill for fiscal year 2026. It provides money for many government departments and agencies. The bill covers the Treasury Department, the White House, federal courts, and independent agencies. It sets budgets for the IRS, the Federal Communications Commission, and many other offices. The bill also includes money for Washington D.C. and special programs. It contains rules about how the money can be used. The total spending covers operations from October 1, 2025 to September 30, 2026.",
+  "citizenSummary": "This bill sets government spending for 2026, funding agencies like the IRS, courts, and election security.",
+  "keyDecisions": [
+    {
+      "decision": "Appropriation of $3,036,606,000 for IRS Taxpayer Services",
+      "evidence": "For necessary expenses of the Internal Revenue Service to provide taxpayer services, including pre-filing assistance and education, filing and account services, taxpayer advocacy services, and other services as authorized by 5 U.S.C. 3109, at such rates as may be determined by the Commissioner, $3,036,606,000",
+      "citation": "For necessary expenses of the Internal"
+    },
+    {
+      "decision": "Appropriation of $4,999,000,000 for IRS Enforcement",
+      "evidence": "For necessary expenses for tax enforcement activities of the Internal Revenue Service to determine and collect owed taxes, to provide legal and litigation support, to conduct criminal investigations, to enforce criminal statutes related to violations of internal revenue laws and other financial crimes, to purchase and hire passenger motor vehicles (31 U.S.C. 1343(b)), and to provide other services as authorized by 5 U.S.C. 3109, at such rates as may be determined by the Commissioner, $4,999,000,000",
+      "citation": "For necessary expenses for tax enforcement"
+    },
+    {
+      "decision": "Payment of $174,000 to widow of deceased Representative",
+      "evidence": "For payment to Jill Marie LaMalfa, widow of Douglas L. LaMalfa, late a Representative from the State of California, $174,000.",
+      "citation": "For payment to Jill Marie LaMalfa"
+    },
+    {
+      "decision": "Appropriation of $45,000,000 for Election Security Grants",
+      "evidence": "Notwithstanding section 104(c)(2)(B) of the Help America Vote Act of 2002 (52 U.S.C. 20904(c)(2)(B)), $45,000,000 is provided to the Election Assistance Commission for necessary expenses to make payments to States for activities to improve the administration of elections for Federal office, including to enhance election technology and make election security improvements",
+      "citation": "Notwithstanding section 104(c)(2)(B) of the Help"
+    },
+    {
+      "decision": "Appropriation of $40,000,000 for District of Columbia Resident Tuition Support",
+      "evidence": "For a Federal payment to the District of Columbia, to be deposited into a dedicated account, for a nationwide program to be administered by the Mayor, for the District of Columbia resident tuition support program established and operated under the District of Columbia College Access Act of 1999 (sec 38\u20132701 et seq. D.C. Official Code), $40,000,000, to remain available until expended",
+      "citation": "For a Federal payment to the"
+    },
+    {
+      "decision": "Prohibition on using funds to target citizens for exercising First Amendment rights",
+      "evidence": "None of the funds made available under this Act may be used by the Internal Revenue Service to target citizens of the United States for exercising any right guaranteed under the First Amendment to the Constitution of the United States.",
+      "citation": "None of the funds made available"
+    }
+  ],
+  "affectedGroups": [
+    {
+      "group": "Taxpayers seeking IRS assistance",
+      "impact": "Will receive taxpayer services including pre-filing assistance, education, and advocacy services funded at over $3 billion",
+      "evidence": "For necessary expenses of the Internal Revenue Service to provide taxpayer services, including pre-filing assistance and education, filing and account services, taxpayer advocacy services, and other services as authorized by 5 U.S.C. 3109, at such rates as may be determined by the Commissioner, $3,036,606,000",
+      "citation": "For necessary expenses of the Internal"
+    },
+    {
+      "group": "District of Columbia residents seeking higher education",
+      "impact": "Will receive tuition support through a $40 million federal payment program",
+      "evidence": "For a Federal payment to the District of Columbia, to be deposited into a dedicated account, for a nationwide program to be administered by the Mayor, for the District of Columbia resident tuition support program established and operated under the District of Columbia College Access Act of 1999 (sec 38\u20132701 et seq. D.C. Official Code), $40,000,000, to remain available until expended",
+      "citation": "For a Federal payment to the"
+    },
+    {
+      "group": "State election administrators",
+      "impact": "Will receive $45 million in grants to improve election administration and security",
+      "evidence": "$45,000,000 is provided to the Election Assistance Commission for necessary expenses to make payments to States for activities to improve the administration of elections for Federal office, including to enhance election technology and make election security improvements, as authorized by sections 101, 103, and 104 of such Act",
+      "citation": "$45,000,000 is provided to the Election"
+    },
+    {
+      "group": "Low-income taxpayers",
+      "impact": "Will receive free tax preparation assistance through programs funded at $46 million",
+      "evidence": "not less than $46,000,000 shall be available for the Community Volunteer Income Tax Assistance Matching Grants Program for tax return preparation assistance",
+      "citation": "not less than $46,000,000 shall be"
+    },
+    {
+      "group": "Criminal defendants in District of Columbia",
+      "impact": "Will receive legal representation through defender services funded at $46 million",
+      "evidence": "For payments authorized under section 11\u20132604 and section 11\u20132605, D.C. Official Code (relating to representation provided under the District of Columbia Criminal Justice Act), payments for counsel appointed in proceedings in the Family Court of the Superior Court of the District of Columbia under chapter 23 of title 16, D.C. Official Code, or pursuant to contractual agreements to provide guardian ad litem representation, training, technical assistance, and such other services as are necessary to improve the quality of guardian ad litem representation, payments for counsel appointed in adoption proceedings under chapter 3 of title 16, D.C. Official Code, and payments authorized under section 21\u20132060, D.C. Official Code (relating to services provided under the District of Columbia Guardianship, Protective Proceedings, and Durable Power of Attorney Act of 1986), $46,005,000",
+      "citation": "For payments authorized under section 11\u20132604"
+    }
+  ],
+  "deadlines": [
+    {
+      "date": "2026-01-30",
+      "description": "Deadline for using $1,000,000 of official reception and representation expenses for hosting the G20 Financial Summit",
+      "evidence": "not to exceed $1,350,000 is for official reception and representation expenses of which $1,000,000 is available until January 30, 2027, for hosting the G20 Financial Summit",
+      "citation": "not to exceed $1,350,000 is for"
+    },
+    {
+      "date": "45 days after enactment",
+      "description": "Election Assistance Commission must make payments to States for election security grants",
+      "evidence": "Provided further, That not later than 45 days after the date of enactment of this Act, the Election Assistance Commission shall make the payments to States under this heading",
+      "citation": "Provided further, That not later than"
+    },
+    {
+      "date": "30 days after enactment",
+      "description": "Office of Management and Budget must issue memorandum directing compliance with title VII provisions",
+      "evidence": "Not later than 30 days after the date of enactment of this Act, the Director of the Office of Management and Budget shall issue a memorandum to all Federal departments, agencies, and corporations directing compliance with the provisions in title VII of this Act.",
+      "citation": "Not later than 30 days after"
+    },
+    {
+      "date": "90 days after enactment",
+      "description": "Treasury Secretary must report on Strategic Bitcoin Reserve and Digital Asset Stockpile",
+      "evidence": "The Secretary of the Treasury is directed to issue a report to Committees on Appropriations of the House of Representatives and the Senate, the House Committee on Financial Services, and the Senate Committee on Banking, Housing, and Urban Affairs not later than 90 days after the date of the enactment of this Act on the authorities used to establish the Strategic Bitcoin Reserve and U.S. Digital Asset Stockpile",
+      "citation": "The Secretary of the Treasury is"
+    },
+    {
+      "date": "20 days after enactment and monthly thereafter",
+      "description": "Treasury Secretary must submit monthly reports on Treasury Forfeiture Fund",
+      "evidence": "Not later than 20 days after the date of the enactment of this Act, and not later than 20 days after the end of the month thereafter, the Secretary of the Treasury shall submit to the Committees on Appropriations of the House of Representatives and the Senate a report on the Treasury Forfeiture Fund.",
+      "citation": "Not later than 20 days after"
+    }
+  ],
+  "obligations": [
+    {
+      "party": "Internal Revenue Service",
+      "obligation": "Must maintain employee training program on taxpayers' rights, courtesy, cross-cultural relations, ethics, and impartial application of tax law",
+      "evidence": "The Internal Revenue Service shall maintain an employee training program, which shall include the following topics: taxpayers' rights, dealing courteously with taxpayers, cross-cultural relations, ethics, and the impartial application of tax law.",
+      "citation": "The Internal Revenue Service shall maintain"
+    },
+    {
+      "party": "Internal Revenue Service",
+      "obligation": "Must institute and enforce policies to safeguard taxpayer information confidentiality and protect against identity theft",
+      "evidence": "The Internal Revenue Service shall institute and enforce policies and procedures that will safeguard the confidentiality of taxpayer information and protect taxpayers against identity theft.",
+      "citation": "The Internal Revenue Service shall institute"
+    },
+    {
+      "party": "Internal Revenue Service",
+      "obligation": "Must issue notice of confirmation to both former and new addresses for employer address changes",
+      "evidence": "The Internal Revenue Service shall issue a notice of confirmation of any address change relating to an employer making employment tax payments, and such notice shall be sent to both the employer's former and new address",
+      "citation": "The Internal Revenue Service shall issue"
+    },
+    {
+      "party": "States receiving election security grants",
+      "obligation": "Must provide 20% matching funds within two years of receiving payment",
+      "evidence": "Provided further, That not later than two years after receiving a payment under this heading, a State shall make available funds for such activities in an amount equal to 20 percent of the total amount of the payment made to the State under this heading",
+      "citation": "Provided further, That not later than"
+    },
+    {
+      "party": "States receiving election security grants",
+      "obligation": "Must submit quarterly financial reports and annual progress reports",
+      "evidence": "Provided further, That States shall submit quarterly financial reports and annual progress reports",
+      "citation": "Provided further, That States shall"
+    },
+    {
+      "party": "District of Columbia Chief Financial Officer",
+      "obligation": "Must provide quarterly financial reports on Resident Tuition Support Program expenditures",
+      "evidence": "Provided further, That the Office of the Chief Financial Officer shall provide a quarterly financial report to the Committees on Appropriations of the House of Representatives and the Senate for these funds showing, by object class, the expenditures made and the purpose therefor.",
+      "citation": "Provided further, That the Office of"
+    },
+    {
+      "party": "District of Columbia Chief Budget Officer",
+      "obligation": "Must submit quarterly budget reports on Emergency Planning and Security Costs within 90 days after each quarter",
+      "evidence": "Provided, That not later than 90 days after the last day of each quarter, the District of Columbia Chief Budget Officer shall submit to the Committees on Appropriations of the House of Representatives and the Senate a quarterly budget report that includes total obligations of the Emergency Planning and Security Costs for that quarter, broken down by each Federal and District government agency, activity and purpose charged to the federal payment account and a quarterly estimates report that accounts for upcoming federal activities.",
+      "citation": "Provided, That not later than 90"
+    },
+    {
+      "party": "Internal Revenue Service",
+      "obligation": "Must submit quarterly reports on major information technology investments within 30 days after each quarter",
+      "evidence": "Provided, That not later than 30 days after the end of each quarter, the Internal Revenue Service shall submit a report to the Committees on Appropriations of the House of Representatives and the Senate, the Treasury Inspector General for Tax Administration, and the Comptroller General of the United States detailing each major investment in the Internal Revenue Service's information technology portfolio",
+      "citation": "Provided, That not later than 30"
+    }
+  ]
+}
