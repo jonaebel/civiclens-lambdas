@@ -72,18 +72,7 @@ If anything fails, the system transitions to `ERROR` and the error message and c
 
 ### Architecture Overview
 
-```
-User Browser
-    |
-    |-- POST /create-document --> Lambda (JWT check, rate limit)
-    |                                 |-- S3 presigned POST URL
-    |-- PUT (file) ------------> S3 raw bucket
-    |                                 |-- triggers extract-text Lambda
-    |                                 |-- triggers structured-analysis Lambda (Bedrock)
-    |-- GET meta.json (poll) --> S3 processed bucket (via Cognito creds)
-    |-- GET structured.json ---> S3 processed bucket (via Cognito creds)
-    |-- POST /document-qa -----> Lambda (JWT check, Bedrock Claude)
-```
+![Architektur Diagramm](assets/light.png)
 
 ### Structured Analysis
 
