@@ -8,6 +8,9 @@ what CivicLens looks like in action, or explore the [live landing page](https://
 
 ## Overview
 
+### Result:
+- 🏆 Semifinalist (TOP 300) @ AWS AI Ideas 2026 → [Blogpost](https://builder.aws.com/content/3A5MXZMR2T0OCRqzUh79cvj43D1/aideas-civiclens-my-entry-to-civic-ai) → partly [opensource](https://github.com/jonaebel/civiclens-lambdas)
+
 CivicLens processes government documents through a **4-stage AWS powered pipeline**:
 
 1. **create-document** — Authenticates the user and generates a pre-signed S3 URL for PDF upload
